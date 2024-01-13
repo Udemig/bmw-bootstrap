@@ -1,5 +1,2 @@
-# BMW with BS
-BS ile BMW web sayfası tasarladık.
-
-# Görseller
-![](images/bmw.png)
+# BMW with BOOTSTRAP
+Bootstrap yapısını kullanarak BMW web sayfası tasarladık.
